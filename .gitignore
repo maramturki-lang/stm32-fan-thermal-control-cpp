@@ -1,0 +1,22 @@
+# ---- STM32CubeIDE / Eclipse ----
+Debug/
+Release/
+.metadata/
+*.launch
+.settings/
+
+# ---- Binaires et objets ----
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.a
+
+# ---- Système ----
+.DS_Store
+Thumbs.db
+*~
