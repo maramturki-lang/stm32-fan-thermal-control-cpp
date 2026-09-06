@@ -91,7 +91,7 @@ reste du code.
 **Prérequis :** [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html).
 
 ```bash
-git clone https://github.com/<ton-compte>/stm32-fan-thermal-control-cpp.git
+git clone https://github.com/<maramturki-lang>/stm32-fan-thermal-control-cpp.git
 ```
 
 1. `File > Open Projects from File System…` et sélectionner le dossier cloné.
